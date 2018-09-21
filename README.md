@@ -2,7 +2,7 @@
 
 ## WebRTC Live Streaming
 
-- Node.js server
+- WebRTC-iOS
 - [Android client](https://github.com/balwant108/WebRTC-Android)
 - [server](https://github.com/balwant108/WebRTC-Server)
 
