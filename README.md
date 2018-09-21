@@ -1,6 +1,12 @@
 # WebRTC-iOS
 
+
 ## WebRTC Live Streaming
+
+An iOS client for [WebRTC-iOS](https://github.com/balwant108/WebRTC-iOS).
+
+It is designed to demonstrate WebRTC video calls between iOS , Android and/or desktop browsers, but WebRtcClient could be used in other scenarios.
+You can import the webrtc-client module in your own app if you want to work with it.
 
 - WebRTC-iOS
 - [Android client](https://github.com/balwant108/WebRTC-Android)
@@ -11,14 +17,6 @@ The signaling part is done with [socket.io](socket.io).
 ## Install
 
 * git clone https://github.com/balwant108/WebRTC-iOS
-
-## WebRTC Live Streaming
-
-An iOS client for [WebRTC-iOS](https://github.com/balwant108/WebRTC-iOS).
-
-It is designed to demonstrate WebRTC video calls between iOS , Android and/or desktop browsers, but WebRtcClient could be used in other scenarios.
-You can import the webrtc-client module in your own app if you want to work with it.
-
 
 ## How To
 
