@@ -10,7 +10,7 @@ The signaling part is done with [socket.io](socket.io).
 
 ## Install
 
-* git clone https://github.com/balwant108/WebRTC-Server
+* git clone https://github.com/balwant108/WebRTC-iOS
 
 # AndroidRTC
 
