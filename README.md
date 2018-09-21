@@ -12,8 +12,6 @@ The signaling part is done with [socket.io](socket.io).
 
 * git clone https://github.com/balwant108/WebRTC-iOS
 
-# AndroidRTC
-
 ## WebRTC Live Streaming
 
 An iOS client for [WebRTC-iOS](https://github.com/balwant108/WebRTC-iOS).
