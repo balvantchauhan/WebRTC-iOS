@@ -20,10 +20,10 @@ The signaling part is done with [socket.io](socket.io).
 
 ## How To
 
-You need [WebRTC-Server](https://github.com/balwant108/WebRTC-Server) up and running, and it must be somewhere that your iOS can access. (You can quickly test this with your iOS browser)
+You need [WebRTC-Server](https://github.com/balwant108/WebRTC-Server) up and running, and it must be somewhere that your iOS client can access. (You can quickly test this with your iOS browser)
 
 When you launch the app, you will be given several options to send a message : "Call someone".
-Use this menu to send a link of your stream. This link can be opened with a WebRTC-capable browser or by another WebRTC-iOS.
+Use this menu to send a link of your stream. This link can be opened with a WebRTC-capable browser or by another WebRTC-iOS client.
 The video call should then start.
 
 ## Libraries
