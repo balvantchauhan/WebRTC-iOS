@@ -1,0 +1,15 @@
+PODS:
+  - libjingle_peerconnection (11177.2.0)
+  - Socket.IO-Client-Swift (6.1.4)
+
+DEPENDENCIES:
+  - libjingle_peerconnection
+  - Socket.IO-Client-Swift (~> 6.1.4)
+
+SPEC CHECKSUMS:
+  libjingle_peerconnection: 3458f646ddd61f08a9f3a0c43fb01fff5c165eb8
+  Socket.IO-Client-Swift: 79dfbbe170d7816c84e2d3cc2baa3d227549e067
+
+PODFILE CHECKSUM: e1685100aa370aa1b7b10ac51f28ec9a07265546
+
+COCOAPODS: 1.0.0
